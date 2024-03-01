@@ -1,8 +1,8 @@
-create `~/.config/nvim` directory
-clone repo into `~/.config/nvim`
-rename the lua_config to lua
-create an init.lua file in `~/.config/nvim`
-add this to `~/.config/nvim/init.lua`
+- create `~/.config/nvim` directory
+- clone repo into `~/.config/nvim`
+- rename the lua_config to lua
+- create an init.lua file in `~/.config/nvim`
+- add this to `~/.config/nvim/init.lua`
 
 ```
 require'nvim-tree'.setup {}
